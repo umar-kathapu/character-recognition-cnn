@@ -8,7 +8,10 @@ The application allows users to draw a handwritten English letter (A–Z) and pr
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** Coming Soon
+🌐 **Try the Live App:**  
+https://character-recognition-cnn.streamlit.app/
+
+> Draw a handwritten English character (A–Z) and get an instant CNN prediction with confidence scores.
 
 ---
 
